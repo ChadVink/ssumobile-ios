@@ -91,7 +91,7 @@
                     </connections>
                 </searchDisplayController>
             </objects>
-            <point key="canvasLocation" x="-1130" y="-120"/>
+            <point key="canvasLocation" x="-1070" y="-55"/>
         </scene>
         <!--Class Details View Controller-->
         <scene sceneID="g5t-0M-bjw">
@@ -328,13 +328,12 @@
                         </prototypes>
                         <connections>
                             <outlet property="dataSource" destination="MPk-bS-ffl" id="R95-wr-eqa"/>
-                            <outlet property="delegate" destination="MPk-bS-ffl" id="fgb-Ch-hsb"/>
                         </connections>
                     </tableView>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="K3K-Lr-h9B" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="13.6" y="816.34182908545733"/>
+            <point key="canvasLocation" x="167" y="774"/>
         </scene>
         <!--Storyboard Link-->
         <scene sceneID="Ly7-63-kie">

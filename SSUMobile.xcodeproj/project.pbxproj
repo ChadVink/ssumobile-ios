@@ -1549,10 +1549,10 @@
 			isa = PBXGroup;
 			children = (
 				DB2A64681EBE9364008726BB /* SSUScheduleTableViewContorller.swift */,
+				DB1F58791EC15EC70059EFE8 /* SSUCatalogTableViewController.swift */,
 				DB2A646A1EBE9480008726BB /* SSUCourseViewCell.swift */,
 				DB2A646C1EBE9593008726BB /* SSUCourseDetailViewController.swift */,
 				DB2A64711EBE9AD4008726BB /* Schedule.storyboard */,
-				DB1F58791EC15EC70059EFE8 /* SSUCatalogTableViewController.swift */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -2082,7 +2082,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 2.0.1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 9A29YRQ4XD;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SSUMobile/Supporting Files/SSUMobile-Prefix.pch";
 				GCC_WARN_UNUSED_FUNCTION = YES;
@@ -2094,7 +2094,7 @@
 					"-all_load",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.SSU.SSUMobile;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chet.SSUMobile;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -2118,7 +2118,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 2.0.1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 9A29YRQ4XD;
 				EXCLUDED_SOURCE_FILE_NAMES = (
 					"SSUDirectoryTools*",
 					SSUEditDepartmentViewController,
@@ -2136,7 +2136,7 @@
 					"-all_load",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.SSU.SSUMobile;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chet.SSUMobile;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
